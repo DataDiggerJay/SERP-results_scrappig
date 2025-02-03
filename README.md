@@ -83,7 +83,6 @@ Feel free to submit **pull requests** or open **issues** for improvements.
 This project is licensed under the **MIT License**.
 
 ## ✨ Author
-[Your Name](https://github.com/DataDiggerJay)
-```
+[Author](https://github.com/DataDiggerJay)
 
 
