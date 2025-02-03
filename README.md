@@ -52,7 +52,7 @@ This project automates the process of fetching top search results from Google ba
 - Generate an API key and store it securely.
 
 ## ⚙️ Configuration
-- Update the `fetch_search_results.py` script:
+- Update the `script.py` script:
   ```python
   SERP_API_KEY = "your_api_key_here"  # Replace with your actual API key
   ```
@@ -65,12 +65,12 @@ This project automates the process of fetching top search results from Google ba
 ## 🏃‍♂️ Running the Script
 Execute the script with:
 ```sh
-python fetch_search_results.py
+python script.py
 ```
 
 ## 🛠️ Customization
 ### **To get more than 2 results**
-Modify the `num_results` variable in `fetch_search_results.py`:
+Modify the `num_results` variable in `script.py`:
 ```python
 num_results = 5  # Fetch 5 results instead of 2
 ```
